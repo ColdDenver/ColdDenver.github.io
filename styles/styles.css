@@ -6,6 +6,10 @@ body {
   text-align: center;
 }
 
+.white {
+  color: white;
+}
+
 .banner{
   width: 100%;
 }
