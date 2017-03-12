@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.center{
+  text-align: center;
+}
+
+.banner{
+  width: 100%;
+}
+
+.flex-container{
+  /* this is what is necessary */
+  display: flex;
+  height: 100vh;
+}
+
+.flex-box{
+  width: 50%;
+  /* this is what is necessary */
+  margin: auto;
+}
